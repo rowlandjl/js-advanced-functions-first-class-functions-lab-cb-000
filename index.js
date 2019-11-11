@@ -1,12 +1,4 @@
-function returnFirstTwoDrivers() {
-  
-}
-
-
-function returnLastTwoDrivers() {
-  
-}
-
+const 
 
 
 
