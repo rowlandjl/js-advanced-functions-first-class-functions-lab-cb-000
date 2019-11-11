@@ -1,4 +1,4 @@
-const returnFirstTwoDrivers = 
+const returnFirstTwoDrivers = function(drivers) 
 
 
 
