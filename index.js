@@ -12,6 +12,9 @@ const createFareMultiplier;
 
 const fareDoubler;
 
+const fareTripler;
+
+const selectDifferentDrivers;
 
 
 
